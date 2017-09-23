@@ -1,7 +1,7 @@
 # pyATM
 A project which mimics real ATM system.
 <br>
-<b><mark>Output:</mark></b><br>
+<mark>Output:</mark><br>
 <h6>Welcome to  Our ATM<br>
 
 **** Please Enter credeintials **** <br>
