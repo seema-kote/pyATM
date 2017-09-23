@@ -1,8 +1,8 @@
 # pyATM
 A project which mimics real ATM system.
 <br>
-<b>Output:</b>
-Welcome to  Our ATM
+<b><mark>Output:<mark></b><br>
+<h6>Welcome to  Our ATM
 
 **** Please Enter credeintials **** 
 
@@ -26,4 +26,4 @@ Your account Balance is Rs.9900
 1. Withdrwal	2.Change PIN	3.Balance Enquiry	4.Exit
 4
 
-Process finished with exit code 0
+Process finished with exit code 0</h6>
