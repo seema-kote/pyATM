@@ -1,3 +1,6 @@
+# Author name : Kote Seema M ('https://github.com/seema-kote/')
+# Created Date : 12th Sep 2017
+
 def initialize():
     # read info file
     with open("info.txt", 'r') as file:
