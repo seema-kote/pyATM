@@ -1,6 +1,7 @@
 # Author name : Kote Seema M ('https://github.com/seema-kote/')
 # Created Date : 12th Sep 2017
 
+import getpass
 def initialize():
     # read info file
     with open("info.txt", 'r') as file:
@@ -34,7 +35,7 @@ def process(data):
 def verifyCredentials(data):
     # get username and password
     uname = raw_input("User Name:")
-    password = raw_input("Password: ")
+    password = getpass.getpass(prompt='Password: ', stream=None)
     # verify user and password
     if (data[0] == uname and data[1] == password):
         return True
